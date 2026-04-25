@@ -1,13 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">Hi 👋, I'm Christian Uriostegui</h1>
-<h3 align="center">A data analyst based in New York</h3>
+
+A data analyst based in New York. See below to explore the projects I've worked on.
 
 - 📖 Recently completed the Data Science graduate program at **CUNY School of Professional Studies**
 
-- 🌱 I’m currently learning about **Machine Learning, Computational Math**
-
-- 📫 How to reach me **uriosteguichristian@gmail.com**
+- 🌱 My latest project used neural networks to explore my listening behavior.
 
 - ⚡ Fun fact **I was a former classical vocalist in college**
 

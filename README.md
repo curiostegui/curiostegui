@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Christian Uriostegui</h1>
 <h3 align="center">A data analyst based in New York</h3>
 
-- 📖 I’m a Graduate student in the Data Science program at **CUNY School of Professional Studies**
+- 📖 Recently completed the Data Science graduate program at **CUNY School of Professional Studies**
 
 - 🌱 I’m currently learning about **Machine Learning, Computational Math**
 

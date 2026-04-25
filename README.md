@@ -6,7 +6,7 @@ A data analyst based in New York. See below to explore the projects I've worked 
 
 - 📖 Recently completed the Data Science graduate program at **CUNY School of Professional Studies**
 
-- 🌱 My latest project used neural networks to explore my listening behavior.
+- 🌱 My latest project used neural networks to explore my listening behavior
 
 - ⚡ Fun fact **I was a former classical vocalist in college**
 
